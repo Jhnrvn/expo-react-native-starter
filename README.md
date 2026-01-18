@@ -15,7 +15,7 @@ Install dependencies and start the app:
 
 ```bash
 npm install
-npx start
+npm start
 ```
 
 ---
